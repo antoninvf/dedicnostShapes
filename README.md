@@ -1,2 +1,2 @@
 # dedicnostShapes
- >reading the documentation on math
+\>reading the documentation on math
